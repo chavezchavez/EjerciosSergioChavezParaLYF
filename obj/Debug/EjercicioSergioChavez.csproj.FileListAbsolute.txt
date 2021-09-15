@@ -1,0 +1,91 @@
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe.config
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.pdb
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csprojAssemblyReference.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Form1.resources
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Properties.Resources.resources
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.GenerateResource.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CoreCompileInputs.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CopyComplete
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.exe
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe.config
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csprojAssemblyReference.cache
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Form1.resources
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Properties.Resources.resources
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.GenerateResource.cache
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CopyComplete
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Downloads\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.pdb
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe.config
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.pdb
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csprojAssemblyReference.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Form1.resources
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Properties.Resources.resources
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.GenerateResource.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CoreCompileInputs.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CopyComplete
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.exe
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\EjercicioSergioChavezZZZ\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe.config
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.AssemblyReference.cache
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Form1.resources
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Properties.Resources.resources
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.GenerateResource.cache
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CopyComplete
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Downloads\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.pdb
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe.config
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.pdb
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csprojAssemblyReference.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Form1.resources
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Properties.Resources.resources
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.GenerateResource.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CoreCompileInputs.cache
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CopyComplete
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.exe
+C:\Users\tecno\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\copia docs laptop vieja\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe.config
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Form1.resources
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Properties.Resources.resources
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CopyComplete
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Desktop\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe.config
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\bin\Debug\EjercicioSergioChavez.pdb
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Form1.resources
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.csproj.CopyComplete
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.exe
+C:\Users\Sergio\Desktop\Ejer\EjercicioSergioChavez\obj\Debug\EjercicioSergioChavez.pdb
